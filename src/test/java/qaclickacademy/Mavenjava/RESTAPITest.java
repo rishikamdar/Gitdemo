@@ -17,6 +17,10 @@ public class RESTAPITest {
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("IOSApps2");
+		System.out.println("IOSApps3");
+		System.out.println("IOSApps4");
+		System.out.println("IOSApps5");
 	}
 	
 	
