@@ -9,6 +9,8 @@ public class RESTAPITest {
 	public void NativeAppAndroid()
 	{
 		System.out.println("NativeAppAndroid");
+		System.out.println("NativeAppAndroid2");
+		System.out.println("NativeAppAndroid3");
 	}
 	
 	@Test
